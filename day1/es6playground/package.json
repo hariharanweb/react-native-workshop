@@ -1,0 +1,17 @@
+{
+  "name": "es6playground",
+  "version": "0.0.1",
+  "description": "Project with es6 and jasmine setup; To play with es6 features. Can be used for workshops etc",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d output",
+    "test": "jest"
+  },
+  "author": "Nagaraj",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^20.0.4"
+  }
+}
