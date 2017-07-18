@@ -5,7 +5,7 @@ import Customer from './Customer'
 class App extends Component {
     render() {
         return (
-            <Customer />
+            <Customer name="Hari"/>
         );
     }
 }

@@ -4,7 +4,7 @@ class Customer extends Component {
     render () {
         return (
             <div>
-              Welcome Mr.Trump  
+              Welcome {this.props.name}
             </div>
         )
     }
