@@ -1,0 +1,33 @@
+React Native session
+
+- ES6
+- Necessary Setup 
+- React Introduction
+    - Component Thinking 
+        - What are web components.
+        - React components
+    - Component lifecycle
+        - mount, update
+    - States and Props - Hari
+    - Shadow DOM
+- React Native 
+    - How it works
+    - Tooling and Debugging
+    - App using simple components
+        - Text
+        - Touchable Views
+- React Native extras
+    - List View, ScrollView and Pickers
+    - AsyncStorage
+    - Rest calls
+    - React native APIs
+- React-Redux 
+    - Concepts
+    - Connect
+    - Setting up react-redux
+- Unit Testing
+    - Test Renderer
+    - Assertions
+    - Component Testing
+- Accessibility and Automation (If time permits)
+
