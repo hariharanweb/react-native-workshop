@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
 import './App.css';
+import Customer from './Customer'
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-          <h2>Hello world</h2>
-      </div>
-    );
-  }
+	render() {
+		return (
+			<Customer name="Modi"
+				title="Mr"
+				data={{
+					age: 60
+				}}/>
+		);
+	}
 }
 
-export default App;
+export default App
