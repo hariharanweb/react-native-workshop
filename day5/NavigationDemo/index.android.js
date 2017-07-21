@@ -15,7 +15,7 @@ import {
 export default class NavigationDemo extends Component {
 	render() {
 		return (
-			<View style={{ marginTop: 24 }}>
+			<View style={{ marginTop: 60 }}>
 				<Text>React NavigationDemo</Text>
 			</View>
 		);
