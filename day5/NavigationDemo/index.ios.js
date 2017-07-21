@@ -11,12 +11,13 @@ import {
 	Text,
 	View
 } from 'react-native';
+import AppNavigator from './react_native/AppNavigator'
 
 export default class NavigationDemo extends Component {
 	render() {
 		return (
 			<View style={{ marginTop: 60 }}>
-				<Text>React NavigationDemo</Text>
+				<AppNavigator />
 			</View>
 		);
 	}
